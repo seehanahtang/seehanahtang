@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm an Applied Mathematics - Computer Science student at Brown University with an interest in the intersection between machine learning and healthcare in CS. I love all things strategy board games, Chinese card games, and outdoors. Feel free to reach out and connect with me!
+I'm an masters student at the ORC @ MIT with an interest in the intersection between interpretable machine learning and healthcare. I love all things strategy board games, Chinese card games, and outdoors. Feel free to reach out and connect with me!
 
 🏠 [My Personal Website](https://seehanahtang.github.io/)\
 👥 [Linkedin Page](https://www.linkedin.com/in/seehanah-tang/)\
-🎵 I'm a flutist in Brown University Orchestra (check us out [here](https://www.youtube.com/playlist?list=PLw0pLHFT40ys1yow07evb0_3sTMCDQzI1))!
+<!-- 🎵 I'm a flutist in Brown University Orchestra (check us out [here](https://www.youtube.com/playlist?list=PLw0pLHFT40ys1yow07evb0_3sTMCDQzI1))! -->
 
